@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    justify-content: center;
+}
+
+.color-flipper{
+    background-color: rgb(172, 200, 224);
+}
+.list{
+  float: right;
+  margin-top: 0;
+  padding-left: 0%;
+}
+#heading{
+    margin-top: 5rem;
+    display: flex;
+
+}
+.color-button{
+    margin-top: 1rem;
+    display: flex;
+    
+}
+.parent{
+    justify-content: center;
+}
+main{
+    flex-direction: column;
+}
